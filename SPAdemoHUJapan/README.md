@@ -1,11 +1,9 @@
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **SPAdemoHUJapan**
-
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **SPAdemoHUJapan**
 
 ```yaml
-
 Name of QuantLet : SPAdemoHUJapan
 
 Published in : SPA
@@ -30,12 +28,12 @@ Example :
 
 ```
 
-![Picture1](Hyndman-Ullah method for Japanese female mortality.png)
 ![Picture1](Forecast with Hyndman-Ullah method for Japanese female mortality.png)
 
-```R
+![Picture2](Hyndman-Ullah method for Japanese female mortality.png)
 
 
+```r
 # clear history and close windows
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -291,4 +289,5 @@ for (i in 1:20) {
   x1 = 12:55
   lines(x1, extract.years(japan.fert1, 1989 + i)$rate$female, col = "red", type = "p")
 } 
+
 ```
