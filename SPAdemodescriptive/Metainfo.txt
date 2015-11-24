@@ -2,7 +2,7 @@ Name of QuantLet : SPAdemodescriptive
 
 Published in : SPA
 
-Description : 'Plot time series graphs of mortality and fertility of 
+Description : 'Plots time series graphs of mortality and fertility of 
 Japan and Taiwan based on historical data sets.'
 
 Keywords : 'demography, descriptive-statistics, fertility, mortality, 
@@ -18,4 +18,4 @@ Datafile : 'Exposures_1x1.txt, Exposures_1x1tw.txt, JPNasfrRR.txt,
 JPNexposRR.txt, Mx_1x1.txt, Mx_1x1tw.txt, TWNasfrRR.txt, TWNexposRR.txt'
 
 Example : 
-- Mortality
+- Mortality of Japan (female)
