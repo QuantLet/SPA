@@ -29,7 +29,7 @@ Example :
 
 ```
 
-![Picture1](Mortality.png)
+![Picture1](MAE for LC and HU methods.png)
 
 ```R
 
