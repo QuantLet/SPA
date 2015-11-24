@@ -25,7 +25,7 @@ Datafile : 'Exposures_1x1.txt, Exposures_1x1tw.txt, JPNasfrRR.txt,
 JPNexposRR.txt, Mx_1x1.txt, Mx_1x1tw.txt, TWNasfrRR.txt, TWNexposRR.txt'
 
 Example : 
-- Mortality of Japan (female)
+- Mortality of Japan (male)
 
 ```
 
