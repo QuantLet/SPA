@@ -8,14 +8,14 @@ and fertility in Japan using Hyndman-Ullah method.'
 Keywords : 'FPCA, demography, fertility, forecast, mortality, plot, 
 population, smoothing, time-series, visualization'
 
-See also : 'SPAdemoLC, SPAdemodescriptive, SPAdemofcastaccuracy'
+See also : SPAdemoLC, SPAdemodescriptive, SPAdemofcastaccuracy
 
 Author : Lei Fang
 
-Submitted :
+Submitted : Thu, March 26 2015 by Awdesch Melzer
 
-Datafile : 'Exposures_1x1.txt, JPNasfrRR.txt, JPNexposRR.txt, Mx_1x1.txt'
+Datafile : Exposures_1x1.txt, JPNasfrRR.txt, JPNexposRR.txt, Mx_1x1.txt
 
 Example :
-- 'Hyndman-Ullah method for Japanese female mortality'
-- 'Forecast with Hyndman-Ullah method for Japanese female mortality'
+- Hyndman-Ullah method for Japanese female mortality
+- Forecast with Hyndman-Ullah method for Japanese female mortality
