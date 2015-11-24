@@ -1,10 +1,9 @@
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **SPAdemodescriptive**
+![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **SPAdemodescriptive**
 
 ```yaml
-
 Name of QuantLet : SPAdemodescriptive
 
 Published in : SPA
@@ -31,8 +30,8 @@ Example :
 
 ![Picture1](Mortality.png)
 
-```R
 
+```r
 # clear history and close windows
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -71,6 +70,5 @@ plot(taiwan1, series = "female", ylim = c(-10, 2), xlim = c(0, 110), ylab = "Log
 taiwan.fert = read.demogdata("TWNasfrRR.txt", "TWNexposRR.txt", type = "fertility", 
                              label = "Taiwan")
 plot(taiwan.fert, ylim = c(0, 0.3), xlim = c(10, 55)) 
-
 
 ```
