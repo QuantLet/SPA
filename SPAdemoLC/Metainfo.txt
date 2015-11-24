@@ -8,13 +8,13 @@ in Japan and Taiwan using Lee-Carter method.'
 Keywords : 'demography, forecast, lee-carter-method, mortality, 
 population, singular value, svd, time-series'
 
-See also : 'SPAdemoHUJapan, SPAdemodescriptive, SPAdemofcastaccuracy'
+See also : SPAdemoHUJapan, SPAdemodescriptive, SPAdemofcastaccuracy
 
 Author : Lei Fang
 
-Submitted :
+Submitted : Thu, March 26 2015 by Awdesch Melzer
 
-Datafile : 'Exposures_1x1.txt, Exposures_1x1tw.txt, Mx_1x1.txt, Mx_1x1tw.txt'
+Datafile : Exposures_1x1.txt, Exposures_1x1tw.txt, Mx_1x1.txt, Mx_1x1tw.txt
 
 Example :
-- 'Plot of mortality and fertility'
+- Plot of mortality and fertility
