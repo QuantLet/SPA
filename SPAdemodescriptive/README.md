@@ -19,7 +19,7 @@ See also : SPAdemoHUJapan, SPAdemoLC, SPAdemofcastaccuracy
 
 Author : Lei Fang
 
-Submitted :
+Submitted : Thu, March 26 2015 by Awdesch Melzer
 
 Datafile : 'Exposures_1x1.txt, Exposures_1x1tw.txt, JPNasfrRR.txt, 
 JPNexposRR.txt, Mx_1x1.txt, Mx_1x1tw.txt, TWNasfrRR.txt, TWNexposRR.txt'
