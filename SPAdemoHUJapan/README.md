@@ -10,7 +10,7 @@ Name of QuantLet : SPAdemoHUJapan
 
 Published in : SPA
 
-Description : 'Demographic analysis (fPCA) and forecast of mortality 
+Description : 'Analyzes demographic trend (fPCA) and forecasts mortality 
 and fertility in Japan using Hyndman-Ullah method.'
 
 Keywords : 'FPCA, demography, fertility, forecast, mortality, plot, 
@@ -27,7 +27,6 @@ Datafile : Exposures_1x1.txt, JPNasfrRR.txt, JPNexposRR.txt, Mx_1x1.txt
 Example :
 - Hyndman-Ullah method for Japanese female mortality
 - Forecast with Hyndman-Ullah method for Japanese female mortality
-
 
 ```
 
