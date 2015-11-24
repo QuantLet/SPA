@@ -1,11 +1,9 @@
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **SPAdemoLC**
-
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **SPAdemoLC**
 
 ```yaml
-
 Name of QuantLet : SPAdemoLC
 
 Published in : SPA
@@ -27,14 +25,12 @@ Datafile : Exposures_1x1.txt, Exposures_1x1tw.txt, Mx_1x1.txt, Mx_1x1tw.txt
 Example :
 - Plot of mortality and fertility
 
-
 ```
 
 ![Picture1](Plot of mortality and fertility.png)
 
-```R
 
-
+```r
 # clear history and close windows
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -159,4 +155,5 @@ plot(taiwan3, series = "male", ylim = c(-12, 2), col = "grey")
 lines(taiwan.male.fcast)
 dev.new()
 plot(taiwan.male.fcast, "c") 
+
 ```
