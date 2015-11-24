@@ -6,7 +6,7 @@
 ```yaml
 Name of QuantLet : SPAdemoLC
 
-Published in : SPA
+Published in : SPA - Stochastic Population Analysis
 
 Description : 'Analyzes demographic trend (SVD) and forecasts mortality 
 in Japan and Taiwan using Lee-Carter method.'

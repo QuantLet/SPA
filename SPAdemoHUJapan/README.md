@@ -6,7 +6,7 @@
 ```yaml
 Name of QuantLet : SPAdemoHUJapan
 
-Published in : SPA
+Published in : SPA - Stochastic Population Analysis
 
 Description : 'Analyzes demographic trend (fPCA) and forecasts mortality 
 and fertility in Japan using Hyndman-Ullah method.'

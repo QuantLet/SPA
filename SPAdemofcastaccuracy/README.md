@@ -6,7 +6,7 @@
 ```yaml
 Name of QuantLet : SPAdemofcastaccuracy
 
-Published in : SPA
+Published in : SPA - Stochastic Population Analysis
 
 Description : 'Compares and plots forecast accuracy using Lee-Carter 
 and Hyndman-Ullah methods for mortality data of Japan, and computes Diebold 

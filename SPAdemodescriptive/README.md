@@ -6,7 +6,7 @@
 ```yaml
 Name of QuantLet : SPAdemodescriptive
 
-Published in : SPA
+Published in : SPA - Stochastic Population Analysis
 
 Description : 'Plots time series graphs of mortality and fertility of 
 Japan and Taiwan based on historical data sets.'
