@@ -9,9 +9,9 @@ Name of QuantLet: SPAdemoHUJapan
 
 Published in: SPA - Stochastic Population Analysis
 
-Description: Analyzes demographic trend (fPCA) and forecasts mortality
+Description: Analyzes demographic trend (fPCA) and forecasts mortality and fertility in Japan using Hyndman-Ullah method.
 
-Keywords: FPCA, demography, fertility, forecast, mortality, plot,
+Keywords: FPCA, demography, fertility, forecast, mortality, plot, population, smoothing, time-series, visualization
 
 See also: SPAdemoLC, SPAdemodescriptive, SPAdemofcastaccuracy
 
