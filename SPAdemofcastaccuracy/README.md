@@ -9,9 +9,9 @@ Name of QuantLet: SPAdemofcastaccuracy
 
 Published in: SPA - Stochastic Population Analysis
 
-Description: Compares and plots forecast accuracy using Lee-Carter
+Description: Compares and plots forecast accuracy using Lee-Carter and Hyndman-Ullah methods for mortality data of Japan, and computes Diebold Mariano statistics.
 
-Keywords: demography, diebold-mariano-test, error, forecast, lee-carter-method,
+Keywords: demography, diebold-mariano-test, error, forecast, lee-carter-method, mortality, plot, population, smoothing, time-series
 
 See also: SPAdemoHUJapan, SPAdemoLC, SPAdemodescriptive
 
