@@ -9,9 +9,9 @@ Name of QuantLet: SPAdemoLC
 
 Published in: SPA - Stochastic Population Analysis
 
-Description: Analyzes demographic trend (SVD) and forecasts mortality
+Description: Analyzes demographic trend (SVD) and forecasts mortality in Japan and Taiwan using Lee-Carter method.
 
-Keywords: demography, forecast, lee-carter-method, mortality,
+Keywords: demography, forecast, lee-carter-method, mortality, population, singular value, svd, time-series
 
 See also: SPAdemoHUJapan, SPAdemodescriptive, SPAdemofcastaccuracy
 
